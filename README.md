@@ -8,8 +8,8 @@ Bu proje; harici hiçbir hazır kütüphane veya framework (Laravel, CodeIgniter
 
 ##  Ekran Görüntüleri & Sunum
 * **
-* *Arayüz Görseli 1:* ![Giriş Ekranı](ekran-goruntuleri/giris.png)
-* *Arayüz Görseli 2:* ![Yönetim Paneli](ekran-goruntuleri/arayuz.png) 
+* *Arayüz Görseli 1:* ![Giriş Ekranı](ekran_goruntuleri/giris.png)
+* *Arayüz Görseli 2:* ![Yönetim Paneli](ekran_goruntuleri/arayuz.png) 
 
 ---
 
