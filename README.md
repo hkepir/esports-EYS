@@ -6,11 +6,11 @@ Bu proje; harici hiçbir hazır kütüphane veya framework (Laravel, CodeIgniter
 
 ---
 
-##  Ekran Görüntüleri & Sunum
+##  Ekran Görüntüleri & Proje Videosu
 * **
 * *Arayüz Görseli 1:* ![Giriş Ekranı](ekran_goruntuleri/giris.png)
 * *Arayüz Görseli 2:* ![Yönetim Paneli](ekran_goruntuleri/arayuz.png) 
-
+* *Video Linki: * https://drive.google.com/file/d/1xDoBmz1aRIvd_EuBb8sUKsnP6ewhxJKn/view?usp=sharing
 ---
 
 ##  Öne Çıkan Teknik ve Fonksiyonel Özellikler
