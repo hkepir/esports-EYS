@@ -6,14 +6,14 @@ Bu proje; harici hiçbir hazır kütüphane veya framework (Laravel, CodeIgniter
 
 ---
 
-## 📸 Ekran Görüntüleri & Sunum
+##  Ekran Görüntüleri & Sunum
 * **
 * *Arayüz Görseli 1:* ![Giriş Ekranı](ekran-goruntuleri/giris.png)
 * *Arayüz Görseli 2:* ![Yönetim Paneli](ekran-goruntuleri/arayuz.png) 
 
 ---
 
-## 🛠️ Öne Çıkan Teknik ve Fonksiyonel Özellikler
+##  Öne Çıkan Teknik ve Fonksiyonel Özellikler
 
 * **Güvenli Giriş Kapısı & Şifre Kriptolama (Auth):** Sisteme yalnızca yetkili e-spor adminleri/menajerleri kayıt olup giriş yapabilir. Kullanıcı şifreleri veritabanına asla düz metin olarak kaydedilmez; PHP'nin `password_hash()` algoritmasıyla güçlü bir şekilde kriptolanarak saklanır ve `password_verify()` ile doğrulanır.
 * **Oturum Güvenliği Kalkanı (Session Management):** Sistem genelinde yetkisiz erişimleri (URL üzerinden kaçak geçişleri) engellemek amacıyla düz çerezler yerine sunucu taraflı güvenli PHP `$_SESSION` yapısı kullanılmıştır. Giriş yapmayan kullanıcılar korumalı sayfalara erişemeden doğrudan `login.php`'ye fırlatılır.
@@ -24,7 +24,7 @@ Bu proje; harici hiçbir hazır kütüphane veya framework (Laravel, CodeIgniter
 
 ---
 
-## 💻 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 * **Arka Uç (Backend):** Yalın PHP (Pure PHP - Nesne Yönelimli/Modüler Mimari)
 * **Ön Uç (Frontend):** HTML5, CSS3, JavaScript ve Bootstrap 5 (Uzak Sunucu - CDN Entegrasyonu)
@@ -32,7 +32,7 @@ Bu proje; harici hiçbir hazır kütüphane veya framework (Laravel, CodeIgniter
 
 ---
 
-## 📂 Proje Klasör Mimarisi
+##  Proje Klasör Mimarisi
 
 ```text
 klasor/
